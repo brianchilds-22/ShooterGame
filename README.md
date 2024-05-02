@@ -2,7 +2,7 @@
 
 Raven Hunter is a simple browser-based game where players click on flying ravens to score points. The game is built using HTML5 Canvas and JavaScript.
 
-## Table of Contents
+## Table of Contents \*\*Volume Warning
 
 - [Features](#features)
 - [How To Play](#how)
