@@ -1,6 +1,25 @@
-# ShooterGame
-A platform shooter created with HTML, CSS and Javascript
+# Raven Hunter Game
 
-Vanilla javascript using canvas, Animation Loops, deltatime and timestamps, array filter method, ES6, sprite animation, score and game over functions, collision detection by color in 2D, trigger events and more.
+Raven Hunter is a simple browser-based game where players click on flying ravens to score points. The game is built using HTML5 Canvas and JavaScript.
 
-https://brianchilds-22.github.io/ShooterGame/
+## Table of Contents
+
+- [Features](#features)
+- [How To Play](#how)
+- [Demo](#demo)
+
+## Features
+
+- Click on flying ravens to score points.
+- Colorful explosion animations when a raven is hit.
+- Game over screen displaying the final score.
+
+## How to Play
+
+- Click anywhere on the game canvas to shoot at the ravens.
+- Each hit on a raven scores a point.
+- If a raven reaches the left edge of the screen, the game ends.
+
+## Demo
+
+You can play the game [Raven Shooter](https://brianchilds-22.github.io/ShooterGame/).
